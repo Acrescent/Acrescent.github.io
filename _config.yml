@@ -9,14 +9,8 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Tianqi Chen
+title : Zhengjiang Lin
 tagline:
-author :
-  name : Tianqi Chen
-  email : tqchen@cs.washington.edu
-  github : tqchen
-  twitter : tqchenml
-
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
@@ -55,9 +49,9 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : https://homes.cs.washington.edu/~tqchen
+  BASE_PATH : https://acrescent.github.io/
 
-  BLOG_PATH : https://tqchen.github.io
+  BLOG_PATH : https://acrescent.github.io/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
