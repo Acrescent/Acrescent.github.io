@@ -8,5 +8,5 @@ order: 2
 
 # Teaching
 
-- TA of Mathematical Analysis, Spring 2018
+- TA of Mathematical Analysis, Zhejiang University, Spring 2018
 - TA of Algebraic Topology, Zhejiang University, Fall 2018
