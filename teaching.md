@@ -1,11 +1,3 @@
----
-layout: page
-title: Teaching
-group: navigation
-order: 1
----
-{% include JB/setup %}
-
 # Teaching
 
 - TA for Mathematical Analysis 3, ZJU, Spring 2018
